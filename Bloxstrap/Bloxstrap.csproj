@@ -14,10 +14,10 @@
     <ApplicationManifest>app.manifest</ApplicationManifest>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <IncludeSourceRevisionInInformationalVersion>false</IncludeSourceRevisionInInformationalVersion>
-    <AssemblyTitle>Funkstrap</AssemblyTitle>
-    <Product>Funkstrap</Product>
-    <Company>Dawndreamer Studios</Company>
-    <ApplicationTitle>Funkstrap</ApplicationTitle>
+    <AssemblyTitle>Prismstrap</AssemblyTitle>
+    <Product>Prismstrap</Product>
+    <Company>PrismByte</Company>
+    <ApplicationTitle>Prismstrap</ApplicationTitle>
   </PropertyGroup>
     
   <ItemGroup>
