@@ -2,8 +2,8 @@
 {
     public class ActivityWatcher : IDisposable
     {
-        private const string GameMessageEntry                = "[FLog::Output] [BloxstrapRPC]";
-        private const string GameJoiningEntry                = "[FLog::Output] ! Joining game";
+        private const string GameMessageEntry                = "[FLog::CreatorOutput] [BloxstrapRPC]";
+        private const string GameJoiningEntry                = "[FLog::CreatorOutput] ! Joining game";
 
         // these entries are technically volatile!
         // they only get printed depending on their configured FLog level, which could change at any time
